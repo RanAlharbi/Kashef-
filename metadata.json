@@ -1,0 +1,6 @@
+{
+  "name": "Kashef Cybersecurity Platform",
+  "description": "An AI-powered cybersecurity platform to analyze, detect, and educate on digital scams, phishing, fake URLs, and suspicious messages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
